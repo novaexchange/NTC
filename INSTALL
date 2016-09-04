@@ -1,0 +1,9 @@
+Building neptunecoin
+
+See doc/readme-qt.rst for instructions on building neptunecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of neptunecoin.
+
+See doc/build-*.txt for instructions on building neptunecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of neptunecoin.
